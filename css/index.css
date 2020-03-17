@@ -71,3 +71,18 @@ input[type="text"]::placeholder
         padding-left: 20%;
     }
 }
+
+.imagen-seccion{
+    background-image: url(..//img/haloPanorama.png);
+    background-size: 100% 100%;
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+
+.letra{
+    font-size: 12px;
+}
+
+.fondo-footer{
+    background-color: black;
+}
