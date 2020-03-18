@@ -5,7 +5,7 @@
     text-align: center;
     font-size: 2rem;
 }
-.linea:before, h1:after {
+.linea:before, .linea:after {
     position: absolute;
     top: 51%;
     overflow: hidden;
@@ -35,6 +35,13 @@
     font-size: 1.2rem;
 }
 
+.bg-gris{
+    background-color: rgb(207, 207, 207);
+}
+
+.cerrar{
+    font-size: 1.5rem;
+}
 
 .verde{
     color: rgb(100, 185, 2);
